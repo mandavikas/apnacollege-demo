@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my First git Repository
-Author : Manda Vikas
+
+<h1>Author : Manda Vikas</h1>
